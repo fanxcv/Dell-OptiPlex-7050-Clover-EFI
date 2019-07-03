@@ -13,7 +13,7 @@
 				<key>AddPNLF</key>
 				<false/>
 				<key>FixHPET</key>
-				<true/>
+				<false/>
 				<key>FixIPIC</key>
 				<false/>
 				<key>FixRTC</key>
@@ -203,7 +203,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>darkwake=no</string>
+		<string>-v darkwake=no</string>
 		<key>CustomLogo</key>
 		<string>Apple</string>
 		<key>DefaultVolume</key>
@@ -235,7 +235,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<integer>27</integer>
+			<string>No</string>
 		</dict>
 		<key>FakeID</key>
 		<dict>
@@ -268,14 +268,6 @@
 				<data>
 				AQAAAA==
 				</data>
-				<key>framebuffer-con0-enable</key>
-				<data>
-				AQAAAA==
-				</data>
-				<key>framebuffer-con0-type</key>
-				<data>
-				AAgAAA==
-				</data>
 				<key>framebuffer-fbmem</key>
 				<data>
 				AACQAA==
@@ -292,8 +284,6 @@
 				<data>
 				AAAAgA==
 				</data>
-				<key>hda-gfx</key>
-				<string>onboard-1</string>
 				<key>model</key>
 				<string>HD Graphics 630</string>
 			</dict>
