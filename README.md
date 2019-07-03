@@ -1,0 +1,4 @@
+# Dell-OptiPlex-7050-Clover-EFI
+CPU:7700 
+Memory:48G DDR4 2400 
+GPU:HD630
