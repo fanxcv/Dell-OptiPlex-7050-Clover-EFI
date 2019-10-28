@@ -1,4 +1,7 @@
-# Dell-OptiPlex-7050-Clover-EFI
-CPU:7700 
-Memory:48G DDR4 2400 
-GPU:HD630
+# Dell-OptiPlex-7050-Hackintosh-EFI
+- CPU：Intel 7700
+- GPU：HD630
+- Audio: ALC255
+
+---
+##### 该EFI包含Clover和OpenCore
